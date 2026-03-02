@@ -1,4 +1,9 @@
 # base_datos
+ 
+ 
+
+<img width="1919" height="1007" alt="Captura de pantalla 2026-03-01 202303" src="https://github.com/user-attachments/assets/38f6ebd5-dbdc-4ed8-b1a6-80628d55b29a" />
+
 
 CREATE DATABASE GestionNegocio;
 GO
